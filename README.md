@@ -295,7 +295,7 @@ Start the server
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Support 💻 📲 ☎️
+## Support 💻 📲 
 
 For support, email fake@fake.com or join our Slack channel.
 
