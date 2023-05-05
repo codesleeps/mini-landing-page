@@ -28,6 +28,11 @@ To deploy this project run
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
+## Description
+
+Put description here about project....
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 ## Documentation 📄
 
 [Documentation](https://linktodocumentation)
